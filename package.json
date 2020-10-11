@@ -1,0 +1,19 @@
+{
+  "name": "appiness-node-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi8470/appiness-node-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi8470/appiness-node-task/issues"
+  },
+  "homepage": "https://github.com/ravi8470/appiness-node-task#readme"
+}
