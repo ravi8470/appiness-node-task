@@ -5,7 +5,7 @@ import bodyParser from 'body-parser';
 import cors from 'cors';
 import compression from 'compression';
 
-import config from '../config/config.vars';
+import config from './config/config.vars';
 
 const api = express();
 

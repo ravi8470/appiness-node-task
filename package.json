@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "build": "babel server.js -d dist",
+    "build": "rm -rf dist && babel . -d dist --ignore node_modules",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run build && node dist/server.js"
   },
