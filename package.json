@@ -27,7 +27,7 @@
     "mongoose": "^5.10.9",
     "mongoose-bcrypt": "^1.9.0",
     "regenerator-runtime": "^0.13.7",
-    "validator": "^13.1.17"
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.11.6",
